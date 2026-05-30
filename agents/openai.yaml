@@ -1,0 +1,4 @@
+interface:
+  display_name: "Codex Provider Plugin Sync"
+  short_description: "Synchronize Codex provider metadata and restore plugin mentions."
+  default_prompt: "Synchronize my Codex provider metadata and restore all enabled plugins and skills so they appear from the @ picker."
